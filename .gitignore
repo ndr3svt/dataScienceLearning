@@ -1,0 +1,8 @@
+/private_notebooks
+*.csv
+*.json
+*.pkl
+*.pickle
+*.pickle.gz
+*.pickle.bz2
+*.pickle.zip
