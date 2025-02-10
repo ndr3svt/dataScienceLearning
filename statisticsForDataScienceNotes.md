@@ -276,3 +276,26 @@ if __name__ == "__main__":
    - The plot includes labels and a legend to clearly compare the theoretical PMF with the sampled data.
 
 This example shows how to work with a probability mass function for a discrete distribution in Python. Enjoy experimenting with the code!
+
+
+
+
+
+# Uniform Distribution
+
+suppose we roll a die. the outcomes of this event can be 1 - 6
+all outcomes have an equal proobability of occurrence
+
+we can say that the proabilities of occurrence is uniformly distributed
+
+Useful when we are interested in unbiased selection
+
+## Two types of uniform Distribution
+
+- Discrete Uniform Distribution -> take a finite number (m) of values and each value has equal probability of selection
+
+For example : number of books sold by a bookseller per day can be uniformly distributed between 100 -300
+
+- Continuous Uniform Distribution . can take values in an specified range
+
+For example -> temperature in US tomorrow distributed btween 12º - 28º
